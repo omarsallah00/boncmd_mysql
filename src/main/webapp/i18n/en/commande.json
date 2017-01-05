@@ -1,0 +1,28 @@
+{
+    "boncmd6App": {
+        "commande" : {
+            "home": {
+                "title": "Commandes",
+                "createLabel": "Create a new Commande",
+                "createOrEditLabel": "Create or edit a Commande",
+                "search": "Search for Commande"
+            },
+            "created": "A new Commande is created with identifier {{ param }}",
+            "updated": "A Commande is updated with identifier {{ param }}",
+            "deleted": "A Commande is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Commande {{ id }}?"
+            },
+            "detail": {
+                "title": "Commande"
+            },
+            "referenceCommande": "Reference Commande",
+            "dateCommande": "Date Commande",
+            "emailContactAdministratif": "Email Contact Administratif",
+            "telContactAdministratif": "Tel Contact Administratif",
+            "emailContactTechnique": "Email Contact Technique",
+            "telContactTechnique": "Tel Contact Technique",
+            "produit": "Produit"
+        }
+    }
+}
